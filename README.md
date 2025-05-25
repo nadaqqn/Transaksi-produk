@@ -41,7 +41,7 @@ Built with:
 
 ## 📸 Preview
 
-Live version: [🔗 Demo Website](https://nadaqqn.github.io/Transaksi-produk-dengan-metode-blockchain/)
+Live version: [🔗 Demo Website](https://nadaqqn.github.io/Transaksi-produk/)
 
 ![Checkout Simulation Screenshot](previewWeb.jpg)
 
