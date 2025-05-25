@@ -33,7 +33,7 @@ I created this project to:
 Built with:
 
 - 🌐 HTML, CSS, JavaScript  
-- 🧮 Hashing algorithm (e.g. SHA256) using JavaScript libraries or native functions  
+- 🧮 Hashing algorithm  
 - 💾 Local storage or in-memory array for data simulation  
 - 🎨 Simple UI for an intuitive user experience
 
